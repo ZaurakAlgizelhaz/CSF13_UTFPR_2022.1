@@ -1,5 +1,5 @@
-/*1. Complete o programa abaixo de forma a ler do teclado dois valores em ponto flutuante, armazenando-os nas vari·veis
-n1 e n2. Efetue a soma de n1 e n2, atribuindo o resultado na vari·vel aux. Imprima o valor de aux com apenas duas
+/*1. Complete o programa abaixo de forma a ler do teclado dois valores em ponto flutuante, armazenando-os nas vari√°veis
+n1 e n2. Efetue a soma de n1 e n2, atribuindo o resultado na vari√°vel aux. Imprima o valor de aux com apenas duas
 casas decimais*/
 
 #include <stdio.h>
